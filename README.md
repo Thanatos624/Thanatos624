@@ -65,8 +65,6 @@ const mainak = {
 - 🌱 Exploring advanced AI architectures and cloud-native development
 - 👥 Open to collaborating on innovative AI/ML projects
 
-<img align="right" src="https://media.tenor.com/bSsT00ferrAAAAAi/one-piece-pixel.gif" width="80">
-
 <br clear="right"/>
 
 <div align="center">
