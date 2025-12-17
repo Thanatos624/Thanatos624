@@ -1,81 +1,34 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/13778943/190868212-06927d3c-6232-4753-b035-e63013d58d92.gif" width="100%" alt="Rainbow Line" />
+  <img src="https://media.giphy.com/media/QLxQPZ4r479Kw/giphy.gif" width="100%" height="20" alt="System Loading..." />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=50&pause=1000&color=00FF2A&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY;CYBER+SPACE;MAINAK+SAHA" alt="Retro Header" />
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk2YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/sSjjFhD7z74CQ/giphy.gif" width="100" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;USER:+MAINAK+SAHA;ACCESS+LEVEL:+ADMIN;TARGET:+SOFTWARE+INNOVATION" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h1>🚧 PAGE UNDER CONSTRUCTION 🚧</h1>
-  <img src="https://user-images.githubusercontent.com/13778943/190868581-2c09d57a-1158-4530-9774-42b467a996f2.gif" width="500" />
+   <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="100%" alt="Cyberpunk City" />
 </div>
 
-<div align="center">
-  <h3>✨ Hi, I'm Mainak! ✨</h3>
-  <p><b>Computer Science Student</b> @ Christ University</p>
-  <p><i>I bridge the gap between robust software and intelligent data!</i></p>
+---
+
+### 🖥️ **TERMINAL SESSION: `user_profile.sh`**
+
+```bash
+[root@cyberdeck ~]$ ./identify_user.exe --verbose
+
+> IDENTITY FOUND:
+  Name:       Mainak Saha
+  Role:       Cyber-Physical Systems & Full Stack Engineer
+  Education:  Christ University (CSE) // 4th Year
+  Location:   Bengaluru, India (Grid Node 080)
   
-  <br>
-  
-  <a href="https://linkedin.com/in/mainak-saha-41689a255">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30">
-  <a href="mailto:mainaksaha200603@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+> CURRENT OBJECTIVES:
+  [1] Building Next-Gen Automotive Security (OTA)
+  [2] Training Deep Learning Models for Healthcare
+  [3] Acquiring AWS DevOps Supremacy
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/13778943/190869389-70086915-2824-4226-8051-77864703a985.gif" width="100%" />
-</div>
-
-### 👾 MY COOL TECH STACK 👾
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="50" align="right">
-  <img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="50" align="left">
-  
-  **LANGUAGES:** <br>
-  Python 🐍 | Java ☕ | JavaScript 📜 | C++ 💾
-  
-  <br><br>
-  
-  **WEB STUFF:** <br>
-  MERN Stack ⚛️ | React | Node.js | HTML5 (The future!)
-  
-  <br><br>
-  
-  **THE BRAIN (AI/ML):** <br>
-  TensorFlow 🤖 | Keras | AWS DevOps (Certified Pro!) ☁️
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/13778943/190869389-70086915-2824-4226-8051-77864703a985.gif" width="100%" />
-</div>
-
-<div align="center">
-  <h3>👀 CHECK OUT MY STATS 👀</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanatos624&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&theme=highcontrast&hide_border=false&layout=compact" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png" width="40" />
-  <img src="https://img.shields.io/badge/Made%20With-Notepad-blue" />
-  <img src="https://img.shields.io/badge/IE-5.0-blue" />
-  <img src="https://img.shields.io/badge/Netscape-Navigator-teal" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Thanatos624&style=flat-square&label=VISITORS&color=ff69b4" alt="Visitor Count" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/PjZEBiKWmysec/giphy.gif" width="100%" alt="Flames" />
-</div>
+> CONTACT PROTOCOLS:
+  [Email]:    mainaksaha200603@gmail.com
+  [LinkedIn]: /in/mainak-saha-41689a255
+⚔️ WEAPONRY (TECH STACK)CORENEURAL NETS (AI)WEB MATRIXINFRASTRUCTURE💾 DEPLOYED PROJECTS (MISSION LOG)PROJECT ID: OTA-SIMPROJECT ID: NEURO-SCANProtocol: Automotive SecurityProtocol: MedTech AIAutomotive Cybersecurity IoTPython CNN Deep LearningDescription: A simulation environment for secure Over-the-Air (OTA) vehicle updates. Vulnerability testing and patch deployment simulation.Description: Brain tumor detection system utilizing Convolutional Neural Networks (CNN) for high-precision MRI analysis.📂 ACCESS REPO📂 ACCESS REPOPROJECT ID: FILE-INTEGRITYPROJECT ID: MERN-STACKProtocol: Data ForensicsProtocol: Web SystemsSecurity Algorithms HashingMongoDB Express ReactDescription: High-speed file transfer analyzer and tamper detection tool to ensure data sovereignty during transmission.Description: Scalable full-stack architecture for modern web applications.📂 ACCESS REPO📂 ACCESS REPO📊 DATA STREAMS (GITHUB STATS)<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DThanatos624%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="180" alt="stats" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DThanatos624%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="180" alt="languages" /></div><div align="center"><img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DThanatos624%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D00000000" alt="streak" /></div><div align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/26tn33ai009QSTCJ2/giphy.gif" width="60" /><code>System Halted. Connection Closed.</code><a href="https://www.google.com/search?q=https://linkedin.com/in/mainak-saha-41689a255"><img src="https://www.google.com/search?q=https://img.shields.io/badge/ESTABLISH_UPLINK_(LinkedIn)-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a></div>
