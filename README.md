@@ -1,24 +1,82 @@
-# 💫 About Me:
-# Hi there, I'm Mainak Saha! 👋<br><br>I am a **Computer Science & Engineering** student at **Christ University**, Bengaluru. I bridge the gap between robust software engineering and intelligent data systems.<br><br>- 🔭 **I’m currently working on:** Full-stack web applications and deep learning models for healthcare and automation.<br>- 💻 **My Stack:** MERN (MongoDB, Express, React, Node.js), Python, Java, and TensorFlow/Keras.<br>- ☁️ **Cloud:** AWS Certified DevOps Engineer - Professional.<br>- 🤝 **I’m looking to collaborate on:** Innovative AI/ML projects and scalable web architectures.<br>- 📫 **Reach me at:** mainaksaha200603@gmail.com<br><br>[LinkedIn](https://www.linkedin.com/in/mainak-saha-41689a255)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/13778943/190868212-06927d3c-6232-4753-b035-e63013d58d92.gif" width="100%" alt="Rainbow Line" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=50&pause=1000&color=00FF2A&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY;CYBER+SPACE;MAINAK+SAHA" alt="Retro Header" />
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk2YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZDI5YjI5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/sSjjFhD7z74CQ/giphy.gif" width="100" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainak.624) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mainak-saha-624625ms/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mainak saha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:void624625@gmail.com) 
+<div align="center">
+  <h1>🚧 PAGE UNDER CONSTRUCTION 🚧</h1>
+  <img src="https://user-images.githubusercontent.com/13778943/190868581-2c09d57a-1158-4530-9774-42b467a996f2.gif" width="500" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thanatos624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Thanatos624&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <h3>✨ Hi, I'm Mainak! ✨</h3>
+  <p><b>Computer Science Student</b> @ Christ University</p>
+  <p><i>I bridge the gap between robust software and intelligent data!</i></p>
+  
+  <br>
+  
+  <a href="https://linkedin.com/in/mainak-saha-41689a255">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30">
+  <a href="mailto:mainaksaha200603@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thanatos624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/13778943/190869389-70086915-2824-4226-8051-77864703a985.gif" width="100%" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Thanatos624&icon=6&color=0)](https://visitcount.itsvg.in)
+### 👾 MY COOL TECH STACK 👾
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="50" align="right">
+  <img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="50" align="left">
+  
+  **LANGUAGES:** <br>
+  Python 🐍 | Java ☕ | JavaScript 📜 | C++ 💾
+  
+  <br><br>
+  
+  **WEB STUFF:** <br>
+  MERN Stack ⚛️ | React | Node.js | HTML5 (The future!)
+  
+  <br><br>
+  
+  **THE BRAIN (AI/ML):** <br>
+  TensorFlow 🤖 | Keras | AWS DevOps (Certified Pro!) ☁️
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/13778943/190869389-70086915-2824-4226-8051-77864703a985.gif" width="100%" />
+</div>
+
+<div align="center">
+  <h3>👀 CHECK OUT MY STATS 👀</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanatos624&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&theme=highcontrast&hide_border=false&layout=compact" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_64.png" width="40" />
+  <img src="https://img.shields.io/badge/Made%20With-Notepad-blue" />
+  <img src="https://img.shields.io/badge/IE-5.0-blue" />
+  <img src="https://img.shields.io/badge/Netscape-Navigator-teal" />
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=Thanatos624&icon=6&color=0" />
+  <p><b>VISITORS TODAY</b></p>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/k6Fk6Jb.gif" width="100%" alt="Flames" />
+</div>
