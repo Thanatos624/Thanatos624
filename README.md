@@ -1,16 +1,30 @@
-# Mainak Saha
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mainak%20Saha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-**`Digital Swordsman | Code Architect | AI Enthusiast`**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Digital+Swordsman+%E2%9A%94%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A7%A0;AWS+Certified+DevOps+Pro+%E2%98%81%EF%B8%8F;Three-Sword+Style+Coder+%F0%9F%97%A1%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799c2cdd4057.gif">
+<br>
 
-I'm a Computer Science student at Christ University who believes in the **three-sword style** of development: robust backend, intelligent AI, and seamless frontend. Like Zoro's dedication to becoming the world's greatest swordsman, I'm on a path to mastering full-stack development and artificial intelligence.
+<img align="right" alt="Zoro Coding" width="400" src="https://i.pinimg.com/originals/8f/0a/1d/8f0a1d0c69774f9f4d47c85b15063c0f.gif">
 
-Currently sharpening my skills in Bengaluru, building projects that bridge software engineering and intelligent systems.
+### 👋 Welcome, Nakama!
 
----
+I'm a Computer Science student at **Christ University** who believes in the **three-sword style** of development: robust backend, intelligent AI, and seamless frontend. Like Zoro's dedication to becoming the world's greatest swordsman, I'm on a path to mastering full-stack development and artificial intelligence.
 
-### ⚔️ The Three Swords
+Currently sharpening my skills in **Bengaluru**, building projects that bridge software engineering and intelligent systems.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" alt="Zoro Three Sword Style"/>
+</div>
+
+## ⚔️ The Three Swords
 
 ```javascript
 const mainak = {
@@ -31,9 +45,15 @@ const mainak = {
 };
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 🎯 Current Quest
+
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250"/>
 
 - 🔨 Building full-stack web applications with MERN stack
 - 🧠 Training deep learning models for healthcare automation
@@ -41,7 +61,13 @@ const mainak = {
 - 🌱 Exploring advanced AI architectures and cloud-native development
 - 👥 Open to collaborating on innovative AI/ML projects
 
----
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 🛠️ Arsenal
 
@@ -79,9 +105,17 @@ const mainak = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 📊 Battle Stats
+
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Zoro Training"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thanatos624&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -92,7 +126,11 @@ const mainak = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 🏆 Achievements Unlocked
 
@@ -100,7 +138,11 @@ const mainak = {
   <img src="https://github-profile-trophy.vercel.app/?username=Thanatos624&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies">
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 💭 Words of the Blade
 
@@ -108,17 +150,39 @@ const mainak = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 ### 🤝 Connect & Collaborate
 
-I'm always open to interesting conversations and collaboration opportunities!
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always open to interesting conversations and collaboration opportunities!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+
+<br>
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainak-saha-624625ms/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainaksaha200603@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mainak.624)
 
----
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVuGo0JkAXJiuNNK7/giphy.gif" width="400" alt="Zoro Walking"/>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thanatos624&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
@@ -129,6 +193,14 @@ I'm always open to interesting conversations and collaboration opportunities!
   — Roronoa Zoro
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
 
 <p align="center">Made with ⚔️ and ☕ by Mainak Saha</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
