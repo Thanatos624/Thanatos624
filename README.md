@@ -8,15 +8,19 @@
 
 <br>
 
-<img align="right" alt="Zoro Coding" width="400" src="https://i.pinimg.com/originals/8f/0a/1d/8f0a1d0c69774f9f4d47c85b15063c0f.gif">
+<img align="right" alt="Zoro Epic" width="400" src="https://media.tenor.com/rCVhHoNT7msAAAAM/zoro-one-piece.gif">
 
 ### 👋 Welcome, Nakama!
+
+<img align="left" src="https://media.tenor.com/bSsT00ferrAAAAAi/one-piece-pixel.gif" width="80">
 
 I'm a Computer Science student at **Christ University** who believes in the **three-sword style** of development: robust backend, intelligent AI, and seamless frontend. Like Zoro's dedication to becoming the world's greatest swordsman, I'm on a path to mastering full-stack development and artificial intelligence.
 
 Currently sharpening my skills in **Bengaluru**, building projects that bridge software engineering and intelligent systems.
 
-<div class="tenor-gif-embed" data-postid="17912030" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/zoro-one-piece-sword-epic-gif-17912030">Zoro One Piece GIF</a>from <a href="https://tenor.com/search/zoro-gifs">Zoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<br clear="left"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br>
 
@@ -60,6 +64,8 @@ const mainak = {
 - ☁️ AWS Certified DevOps Engineer - Professional
 - 🌱 Exploring advanced AI architectures and cloud-native development
 - 👥 Open to collaborating on innovative AI/ML projects
+
+<img align="right" src="https://media.tenor.com/bSsT00ferrAAAAAi/one-piece-pixel.gif" width="80">
 
 <br clear="right"/>
 
@@ -118,12 +124,12 @@ const mainak = {
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanatos624&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanatos624&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanatos624&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thanatos624&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatos624&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
 
 <div align="center">
