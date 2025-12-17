@@ -73,10 +73,9 @@
   <img src="https://img.shields.io/badge/IE-5.0-blue" />
   <img src="https://img.shields.io/badge/Netscape-Navigator-teal" />
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=Thanatos624&icon=6&color=0" />
-  <p><b>VISITORS TODAY</b></p>
+  <img src="https://komarev.com/ghpvc/?username=Thanatos624&style=flat-square&label=VISITORS&color=ff69b4" alt="Visitor Count" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/k6Fk6Jb.gif" width="100%" alt="Flames" />
+  <img src="https://media.giphy.com/media/PjZEBiKWmysec/giphy.gif" width="100%" alt="Flames" />
 </div>
